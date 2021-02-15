@@ -1,1 +1,3 @@
-# setting
+## setting
+
+- prettier settings
